@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nexttools.activity.WebViewActivity">
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/webViewid"
+        android:background="#c0edf9"
+
+        >
+
+    </WebView>
+
+    <org.xwalk.core.XWalkView
+        android:id="@+id/webViewidd"
+        android:layout_width="fill_parent"
+        android:visibility="gone"
+        android:background="#f7dede"
+        android:layout_height="fill_parent">
+
+    </org.xwalk.core.XWalkView>
+</RelativeLayout>

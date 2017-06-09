@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/imageData_dialogue"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginRight="5dp"
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:id="@+id/textTitle_Dialogue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="dfdsgdgdgd"
+        android:layout_marginTop="@dimen/margin_Top_15dp"
+        android:layout_marginLeft="@dimen/margin_left_15dp"
+        android:layout_toRightOf="@id/imageData_dialogue"/>
+
+
+    <TextView
+        android:id="@+id/textData_Dialogue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="dfdsgdgdgd"
+        android:layout_marginTop="@dimen/margin_Top_15dp"
+        android:layout_marginLeft="@dimen/margin_left_15dp"
+        android:layout_below="@id/textTitle_Dialogue"
+        android:layout_toRightOf="@id/imageData_dialogue"/>
+
+
+    <Button
+        android:layout_below="@id/textData_Dialogue"
+        android:id="@+id/dismissButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:text="Dismiss"
+        android:layout_alignParentRight="true"
+        android:textColor="#f24444" />
+
+</RelativeLayout>

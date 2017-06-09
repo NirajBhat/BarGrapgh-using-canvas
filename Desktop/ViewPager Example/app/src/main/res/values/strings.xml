@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Next Tools</string>
+
+    <string name="Maths">Maths</string>
+    <string name="Chemistry">Chemistry</string>
+    <string name="Social">Social</string>
+    <string name="English">English</string>
+    <string name="Primary">Primary</string>
+    <string name="sfddsf">fdsf</string>
+
+    <string name="Constant_url">http://192.168.10.14/download/nexttools/index.html?devMode=true#/</string>
+</resources>

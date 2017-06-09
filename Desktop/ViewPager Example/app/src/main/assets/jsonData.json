@@ -1,0 +1,301 @@
+{
+  "title": "Next Tools",
+  "thumb": "assets/images/thumb/next_tools.png",
+  "info": "Next Tools Build 1.0. Last Updated 20-1-2017.",
+  "tabs": [{
+    "title": "Maths",
+    "info": "This is a Maths activity..",
+    "icon": "assets/images/icons/math.svg",
+    "cards": [{
+      "title": "2D Graph Plotter",
+      "thumb": "assets/images/thumb/2dgraph_plotter.svg",
+      "info": "The variation of one quantity/variable with respect to another variable can be studied by plotting a graph. While plotting a graph always the independent quantity/variable should be taken on X-axis and the dependent quantity/variable should be taken on Y-axis.",
+      "url": "2d_graph",
+      "guide": [{
+        "thumb": "assets/images/thumb/area_explorer.svg",
+        "title": "2D Graph Plotter 1",
+        "color": "red",
+        "description": "The variation of one quantity/variable with respect to another variable can be studied by plotting a graph. While plotting a graph always the independent quantity/variable should be taken on X-axis and the dependent quantity/variable should be taken on Y-axis."
+      }, {
+        "thumb": "assets/images/thumb/balancing_equation.svg",
+        "title": "2D Graph Plotter 2",
+        "color": "blue",
+        "description": "The variation of one quantity/variable with respect to another variable can be studied by plotting a graph. While plotting a graph always the independent quantity/variable should be taken on X-axis and the dependent quantity/variable should be taken on Y-axis."
+      }, {
+        "thumb": "assets/images/thumb/commom_logarithms.svg",
+        "title": "2D Graph Plotter 3",
+        "color": "orange",
+        "description": "The variation of one quantity/variable with respect to another variable can be studied by plotting a graph. While plotting a graph always the independent quantity/variable should be taken on X-axis and the dependent quantity/variable should be taken on Y-axis."
+      }, {
+        "thumb": "assets/images/thumb/next_maps.svg",
+        "title": "2D Graph Plotter 4",
+        "color": "green",
+        "description": "The variation of one quantity/variable with respect to another variable can be studied by plotting a graph. While plotting a graph always the independent quantity/variable should be taken on X-axis and the dependent quantity/variable should be taken on Y-axis."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Unit Converter",
+      "info": "For every physical quantity you have units in different systems like SI system, MKS system, CGS system etc.  This tool gives the conversion of units of particular physical quantity from one system of unit to the other system of unit.",
+      "thumb": "assets/images/thumb/unit_converter.svg",
+      "video_url": "",
+      "keyboard": "yes",
+      "url": "unit_converter",
+      "guide": [{
+        "title": "Unit Converter",
+        "thumb": "assets/images/thumb/unit_converter.svg",
+        "color": "red",
+        "description": "For every physical quantity you have units in different systems like SI system, MKS system, CGS system etc.  This tool gives the conversion of units of particular physical quantity from one system of unit to the other system of unit."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Area Explorer",
+      "thumb": "assets/images/thumb/area_explorer.svg",
+      "info": "Area explorer is the tool used to find the perimeter and area of any shape drawn on the graph.",
+      "url": "area_explorer",
+      "guide": [{
+        "thumb": "assets/images/thumb/area_explorer.svg",
+        "title": "Area Explorer",
+        "color": "red",
+        "description": "Area explorer is the tool used to find the perimeter and area of any shape drawn on the graph."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Common Logarithms",
+      "info": "The logarithm of a number to a given base is the exponent to which the base must be raised in order to produce that number. By using the common logarithm you can calculate the log value of the given number.",
+      "thumb": "assets/images/thumb/commom_logarithms.svg",
+      "video_url": "",
+      "keyboard": "",
+      "url": "logarithms",
+      "guide": [{
+        "thumb": "assets/images/thumb/commom_logarithms.svg",
+        "title": "Common Logarithms",
+        "color": "red",
+        "description": "The logarithm of a number to a given base is the exponent to which the base must be raised in order to produce that number. By using the common logarithm you can calculate the log value of the given number."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Multiplication Table",
+      "info": "This tool allows users to learn different multiplication tables. The user also has an option to switch to practice session to test their skills where they can generate custom questionnaire.",
+      "thumb": "assets/images/thumb/multiplication_table.svg",
+      "video_url": "",
+      "keyboard": "yes",
+      "url": "multiplication_table",
+      "guide": [{
+        "title": "Multiplication Table",
+        "thumb": "assets/images/thumb/unit_converter.svg",
+        "color": "red",
+        "description": "This tool allows users to learn different multiplication tables. The user also has an option to switch to practice session to test their skills where they can generate custom questionnaire."
+      }],
+      "toBuild": true
+    }],
+    "toBuild": true
+  }, {
+    "title": "Chemistry",
+    "info": "This is a Chemistry activity..",
+    "icon": "assets/images/icons/chemistry.svg",
+    "cards": [{
+      "title": "Periodic Table",
+      "thumb": "assets/images/thumb/periodic_table.svg",
+      "info": "The periodic table allows students to learn about all different elements as well as their groups, properties and categories. Users can also learn about electron configurations of each element. Further more this can also be used as a reference for teaching different concepts in chemistry.",
+      "url": "periodic_table",
+      "guide": [{
+        "thumb": "assets/images/thumb/shape_sorter.svg",
+        "title": "The periodic table allows students to learn about all different elements as well as their groups, properties and categories. Users can also learn about electron configurations of each element. Further more this can also be used as a reference for teaching different concepts in chemistry.",
+        "color": "red",
+        "description": "Click launch to view the Periodic table in detail."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Chemical Equation",
+      "thumb": "assets/images/thumb/chemical_equation.svg",
+      "info": "Click launch to view the Periodic table in detail.",
+      "url": "chemicalequation",
+      "guide": [{
+        "thumb": "assets/images/thumb/shape_sorter.svg",
+        "title": "Periodic table",
+        "color": "red",
+        "description": "Click launch to view the Periodic table in detail."
+      }],
+      "toBuild": true
+    }],
+    "toBuild": true
+  }, {
+    "title": "Social",
+    "info": "This is a Chemistry activity..",
+    "icon": "assets/images/icons/social.svg",
+    "cards": [{
+      "title": "World Time",
+      "info": "World time is designed for students to learn about different timezones across the world. They can also use the compare mode to check differences between timezones.",
+      "thumb": "assets/images/thumb/world_time.svg",
+      "video_url": "",
+      "keyboard": "",
+      "url": "worldmap",
+      "guide": [{
+        "thumb": "assets/images/thumb/world_time.svg",
+        "title": "World Time",
+        "color": "red",
+        "description": "World time is designed for students to learn about different timezones across the world. They can also use the compare mode to check differences between timezones."
+      }],
+      "toBuild": true
+    }, {
+      "title": "iMaps",
+      "info": "iMaps is an interactive quiz based on countries. Users have the option to select the desired country and set difficulties for each session to challenge their general knowledge.",
+      "thumb": "assets/images/thumb/imaps.svg",
+      "video_url": "",
+      "keyboard": "",
+      "url": "imaps",
+      "guide": [{
+        "thumb": "assets/images/thumb/imaps.svg",
+        "title": "World Time",
+        "color": "red",
+        "description": "iMaps is an interactive quiz based on countries. Users have the option to select the desired country and set difficulties for each session to challenge their general knowledge."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Next Maps",
+      "info": "Click launch to view the Next Maps in detail.",
+      "thumb": "assets/images/thumb/next_maps.svg",
+      "video_url": "",
+      "keyboard": "",
+      "url": "nextmaps",
+      "guide": [{
+        "thumb": "assets/images/thumb/next_maps.svg",
+        "title": "World Time",
+        "color": "red",
+        "description": "Click launch to view the Next Maps in detail."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Solar System",
+      "info": "Click launch to view the Solar System in detail.",
+      "thumb": "assets/images/thumb/solar_system.svg",
+      "video_url": "",
+      "keyboard": "",
+      "url": "solarsystem",
+      "guide": [{
+        "thumb": "assets/images/thumb/imaps.svg",
+        "title": "Solar System",
+        "color": "red",
+        "description": "Click launch to view the Solar System in detail."
+      }],
+      "toBuild": true
+    }],
+    "toBuild": true
+  }, {
+    "title": "English",
+    "info": "Find meaning of any word here.",
+    "icon": "assets/images/icons/english_tool.svg",
+    "cards": [{
+      "title": "Dictionary",
+      "thumb": "assets/images/thumb/dictionary.svg",
+      "info": "Find meaning of any word here.",
+      "url": "dictionary",
+      "guide": [{
+        "thumb": "assets/images/thumb/dictionary.svg",
+        "title": "Dictionary",
+        "color": "red",
+        "description": "Find meaning of any word here."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Phonetics Tool",
+      "thumb": "assets/images/thumb/phonetictool.svg",
+      "info": "Phonetics.",
+      "url": "phonetictool",
+      "guide": [{
+        "thumb": "assets/images/thumb/phonetictool.svg",
+        "title": "Phonetics Tool",
+        "color": "red",
+        "description": "Phonetics."
+      }],
+      "toBuild": true
+    }],
+    "toBuild": true
+  }, {
+    "title": "Biology",
+    "info": "Find meaning of any word here.",
+    "icon": "assets/images/icons/biology.svg",
+    "cards": [{
+      "title": "Biology",
+      "thumb": "assets/images/thumb/biology.svg",
+      "info": "Find meaning of any word here.",
+      "url": "biology",
+      "guide": [{
+        "thumb": "assets/images/thumb/biology.svg",
+        "title": "Biology",
+        "color": "red",
+        "description": "Find meaning of any word here."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Classification",
+      "thumb": "assets/images/thumb/classification.png",
+      "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "url": "classification",
+      "guide": [{
+        "thumb": "assets/images/thumb/classification.png",
+        "title": "Classification",
+        "color": "red",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      }],
+      "toBuild": true
+    }],
+    "toBuild": true
+  }, {
+    "title": "Primary",
+    "info": "This is a Primary activity..",
+    "icon": "assets/images/icons/primary.svg",
+    "cards": [{
+      "title": "Shape Sorter",
+      "thumb": "assets/images/thumb/bar_graph_sorter.svg",
+      "info": "Shape sorter is a tool designed for kids to learn about different shapes and colors. It is a fun to develop their cognitive abilities.",
+      "url": "shape_sorter",
+      "guide": [{
+        "thumb": "assets/images/thumb/bar_graph_sorter.svg",
+        "title": "Shape Sorter",
+        "color": "red",
+        "description": "Shape sorter is a tool designed for kids to learn about different shapes and colors. It is a fun to develop their cognitive abilities."
+      }],
+      "toBuild": true
+    }, {
+      "title": "How To Draw",
+      "thumb": "assets/images/thumb/how_to_draw.svg",
+      "info": "This module is designed for primary students to teach basics of drawing. There are multiple categories with step by step tutorials, as well as a digital canvas to draw at the same time.",
+      "url": "howtodraw",
+      "guide": [{
+        "thumb": "assets/images/thumb/how_to_draw.svg",
+        "title": "How To Draw",
+        "color": "red",
+        "description": "This module is designed for primary students to teach basics of drawing. There are multiple categories with step by step tutorials, as well as a digital canvas to draw at the same time."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Abacus",
+      "info": "The abacus tool supports both modern abacus as well as the traditional abacus. Users can practice as well as learn how to represent different number using abacus, which they can translate to a real world abacus.",
+      "thumb": "assets/images/thumb/abacus.svg",
+      "video_url": "",
+      "keyboard": "yes",
+      "url": "abacus",
+      "guide": [{
+        "title": "Abacus",
+        "thumb": "assets/images/thumb/abacus.svg",
+        "color": "red",
+        "description": "The abacus tool supports both modern abacus as well as the traditional abacus. Users can practice as well as learn how to represent different number using abacus, which they can translate to a real world abacus."
+      }],
+      "toBuild": true
+    }, {
+      "title": "Clock",
+      "thumb": "assets/images/thumb/clock.svg",
+      "info": "The clock module is teaches primary students how to read a traditional clock with aids like digital clock, text mode and setting up custom time. There is a also a practice session available where they can answer system generated questions.",
+      "url": "clock",
+      "guide": [{
+        "thumb": "assets/images/thumb/clock.svg",
+        "title": "Clock",
+        "color": "red",
+        "description": "The clock module is teaches primary students how to read a traditional clock with aids like digital clock, text mode and setting up custom time. There is a also a practice session available where they can answer system generated questions."
+      }],
+      "toBuild": true
+    }],
+    "toBuild": true
+  }]
+}

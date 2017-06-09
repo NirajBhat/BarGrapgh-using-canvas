@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/next/AndroidStudioProjects/NextToolsSVN/downloadmanager/src/main/assets"/><source path="/home/next/AndroidStudioProjects/NextToolsSVN/downloadmanager/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/next/AndroidStudioProjects/NextToolsSVN/downloadmanager/src/debug/assets"/></dataSet></merger>

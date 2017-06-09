@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- changing it to no actionbar -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Autocomplete" parent="Widget.AppCompat.Light.AutoCompleteTextView">
+        <item name="android:background">@color/green500</item>
+        <item name="colorControlActivated">@color/cyan500</item>
+    </style>
+</resources>
